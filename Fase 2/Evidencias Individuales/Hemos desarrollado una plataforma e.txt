@@ -1,0 +1,10 @@
+Hemos desarrollado una plataforma educativa de IA con controles pedagógicos diseñada para guiar el aprendizaje sin reemplazarlo. La solución integra inteligencia artificial con mecanismos de control que fomentan el pensamiento crítico y la autonomía estudiantil.
+Características principales:
+
+Límite de uso diario: Máximo de consultas por estudiante para evitar dependencia
+Respuestas parciales: Proporciona pistas y orientación, no respuestas completas
+Supervisión del docente: Panel de control con historial completo y alertas de uso excesivo
+Retroalimentación reflexiva: Preguntas metacognitivas después de cada consulta
+Autonomía del estudiante: El alumno gestiona su propio ritmo de aprendizaje
+Alcance educativo: Aplicable a todos los niveles (básica, media y superior)
+
