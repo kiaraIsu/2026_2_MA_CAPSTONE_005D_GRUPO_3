@@ -80,7 +80,7 @@ Prerrequisitos
 •	Git
 Pasos para Ejecutar Localmente
 1.	Clonar el repositorio:
-2.	git clone https://github.com/tu-usuario/2026_2_MA_CAPSTONE_005D_GRUPO_X.git
+2.	git clone [https://github.com/tu-usuario/2026_2_MA_CAPSTONE_005D_GRUPO_X.git](https://github.com/kiaraIsu/2026_2_MA_CAPSTONE_005D_GRUPO_3.git)
 3.	cd 2026_2_MA_CAPSTONE_005D_GRUPO_X
 4.	Navegar a la carpeta del sistema:
 5.	cd "Fase 2/Evidencias Proyecto/Evidencias de sistema"
