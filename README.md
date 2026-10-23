@@ -1,4 +1,4 @@
-# 🎫 TicketIA – Sistema Inteligente de Gestión de Soporte TI
+# TicketIA – Sistema Inteligente de Gestión de Soporte TI
 
 **Asignatura / Sección:** 2026_2_MA_CAPSTONE_005D
 **Grupo:** GRUPO_3
